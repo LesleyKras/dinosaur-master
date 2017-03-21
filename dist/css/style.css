@@ -1,0 +1,21 @@
+body {
+    overflow: hidden;
+}
+
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+html{
+    overflow:hidden;
+    background-color: black;
+}
+
+@font-face{
+    font-family: "pixel";
+    src: url("../fonts/Retro Computer_DEMO.ttf");
+}
